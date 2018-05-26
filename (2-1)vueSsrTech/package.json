@@ -1,0 +1,22 @@
+{
+  "name": "vue-ssr-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "vue": "^2.5.2",
+    "vue-loader": "^13.3.0",
+    "vue-template-compiler": "^2.5.2",
+    "webpack": "^2.4.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.4"
+  }
+}
